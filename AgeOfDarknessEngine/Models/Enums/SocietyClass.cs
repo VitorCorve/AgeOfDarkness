@@ -1,0 +1,32 @@
+﻿namespace AgeOfDarknessEngine.Models.Enums
+{
+    public enum SocietyClass
+    {
+        Homeless,
+        Unemployed,
+        Poet,
+        Actor,
+        Artist,
+        Musician,
+        Trader,
+        Prostitute,
+        Medic,
+        Soldier,
+        Politic,
+        Barmen,
+        Police,
+        VampireHunter,
+        Financist,
+        Engineer,
+        Servant,
+        Priest,
+        Prophet,
+        Bandit,
+        Tailor,
+        Blacksmith,
+        Cabman,
+        Builder,
+        Administator,
+        Butler,
+    }
+}
